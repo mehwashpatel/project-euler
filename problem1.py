@@ -13,4 +13,4 @@ for i in range(lowerLimit, upperLimit):
   elif (i%multiplesArr[1] == 0):
     sum = sum + i
 
-return (sum)
+print(sum)

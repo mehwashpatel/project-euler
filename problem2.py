@@ -15,4 +15,4 @@ while(i<=upperLimit):
   fibArr.append(r)
   i = r
 
-return (sum)
+print(sum)

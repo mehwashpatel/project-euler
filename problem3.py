@@ -31,4 +31,4 @@ def max_prime_factor(n):
 
 
 N = 600851475143
-return (max_prime_factor(N))
+print(max_prime_factor(N))
